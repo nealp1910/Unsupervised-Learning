@@ -13,7 +13,7 @@ The data file is located in the Resource folder.
   - myopia.csv
  
  ## Application / Technologies Used
- - Python (Pandas)
+ - Python (Jupyter Notebook)
  - KMeans
  - t-SNE
  - PCA
